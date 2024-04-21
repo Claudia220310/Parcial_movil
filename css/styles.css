@@ -1,0 +1,51 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 24px;
+    color: rgb(235, 97, 155);
+    text-align: center;
+}
+.color1 {
+    color: #4e0404; 
+    font-size: 20px;
+}
+
+.color2 {
+    color: #00415a; 
+    font-size: 18px;
+}
+
+.color3 {
+    color: #270027; 
+    font-size: 16px;
+}
+.fotos-contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.fotos-contenido img{
+    margin: 10px;
+}
+
+
+.tabla-medidas th, .tabla-medidas td {
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.tabla-medidas th {
+    background-color: #f2f2f2;
+}
+
+.nav{
+    padding-top: 0;
+    margin-top: 0;
+}
+  
+
